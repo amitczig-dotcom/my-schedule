@@ -1,0 +1,15 @@
+{
+  "name": "הלו\"ז שלי",
+  "short_name": "לו\"ז",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#3b82f6",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
